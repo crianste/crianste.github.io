@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://crianste.github.io/sitemap.html.gz
+Sitemap: https://crianste.github.io/app/sitemap.html.gz
+Sitemap: https://crianste.github.io/assets/sitemap.html.gz
+Sitemap: https://crianste.github.io/css/sitemap.html.gz
+Sitemap: https://crianste.github.io/includes/sitemap.html.gz
+Sitemap: https://crianste.github.io/item/sitemap.html.gz
+Sitemap: https://crianste.github.io/src/sitemap.html.gz
